@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "checks": {
+    "responsive": true,
+    "business_alignment": true,
+    "functional_links": true
+  },
+  "errors": []
+}
